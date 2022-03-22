@@ -1,4 +1,9 @@
-SELECT name 
+SELECT name, 
+	CASE
+		WHEN name='Denis' THEN 'true'
+		WHEN name<>'Denis' THEN 'false' 
+	END	
+		AS check_name
 FROM person 
 WHERE id = ANY 
 	(SELECT person_id 
