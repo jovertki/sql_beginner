@@ -1,0 +1,1 @@
+window.PRODUCT_VERSION="r__45.1.0-rc1_4e1837a2a87__s21__STABLE",window.KEYCLOAK_ENDPOINT="https://auth.sberclass.ru/auth",window.SUPPORT_DOMAIN="support-s21.dmz.prod-ins2.pcbl.local",window.KEYCLOAK_CLIENT="school21",window.SENTRY_DNS="https://e4f3278a73844eb2bab49f2fd0d53c26@sentry.pcbltools.ru/4",window.GTM_ID="GTM-KQ8HBZ2",window.GITLAB_URL="https://repos.21-school.ru";
