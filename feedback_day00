@@ -1,0 +1,41 @@
+ex00 
+не понятно из задания, сколько строк необходимо вывести, мне кажется из-за того, что названи столбцов это реальные слова, и их не получается отделить друг от друга. У меня ощущение, что необходимо вернуть имя и возраст кого-то конкретного (определенный же артикль), но кого-то конкретного невозможно, т.к. там несколько людей из Казани. В таком случае нужен неопределенный артикль. Так же притяжательные окончания 's отсутствуют у person.
+Мне кажется, что правильнее 
+Please make a select statement which returns a person's name and age from the city ‘Kazan’.
+или
+Please make a select statement which returns a person's name and a person's age from the city ‘Kazan’.
+
+
+ex01 тоже не совсем корректное предложение
+мне кажется лучше
+Please make a select statement which returns name and age of a 'female' person from the city 'Kazan'.
+Либо, если необходимо вывести несколько человек,  то использовать people вместо person
+
+
+ex02
+Please make 2 syntax different select statements which return a list of pizzerias (pizzeria name and rating) with rating between 3.5 and 5 points (including intervals) and ordering by pizzeria rating.
+Согласование времен. Если statements return, то и order by должно быть в Present Simple. Но на мой взгляд лучше ...and ordered by pizzeria rating.
+
+the 1st select statement should contain signs for comparison
+Вроде comparison signs более по-английски звучит.
+
+the 2nd select statement should contain BETWEEN keyword
+Should или must? Если should, то корректно будет и без BETWEEN сделать
+
+
+ex05
+Please make a select statement which returns person names
+Кажется persons' names корректнее
+
+ex06
+with the check statement
+кажется нужен неопределенный артикль
+
+ex07
+Исходя из текста хочется вывести одного человека, т.к. везде person в единственном числе, но раз нужна сортировка, значит нужно вывести несколько. 
+Мне кажется нужно однозначно указывать, одну или несколько строчек необходимо вывести.
+
+ex08 
+Please make a SQL statement which returns all columns from the person_order table but rows whose identifier is even number and add ordering by returned identifier.
+возможно стоит заменить but на except, что бы людям с более слабым английским было проще понять.
+кажется перед even number нужен артикль an, т.к. числа исчисляемы
