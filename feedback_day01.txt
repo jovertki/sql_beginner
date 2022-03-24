@@ -1,0 +1,62 @@
+ex00
+опечатка
+(with column names are presented on a sample below)
+нужно
+(with column names AS presented on a sample below)
+
+
+ex01
+Очень длинное предложение. Может стоит разбить?
+
+
+ex02
+Тут пропущено statement
+Please write a SQL which returns
+
+Тут согласование времен, должен быть orders by
+and ordering by pizza_name column in descending mode.
+
+
+ex03
+Вроде по правилам должно быть THE other side, поскольку их только две 
+table from other side
+
+Криво составленное предложение
+Other words, let’s find persons' identifiers which visited and then ordered some pizza on the same day.
+Предлагаю заменить на
+In other words, let's find identifiers of persons, who visited pizzeria and ordered some pizza on the same day.
+
+Опечатка, должно быть IN descending mode
+then by person_id by descending mode.
+
+
+ex04
+Возможно будет лучше, если добавить то, что требуется простым языком. НАпример Люди которые пришли и ничего не купили 7 января.
+
+
+ex06
+Опечатка, IN descending mode
+then by person_name by descending mode.
+
+Все же the data sample звучит более по-английски
+Please take a look at a sample of data below.
+Предлагаю
+Please take a look at the data sample below.
+
+
+ex07
+Не понятно, что имеется ввиду
+Please write a SQL statement which returns the date of order from the person_order table and corresponding person name (please rename an output calculated column to person_information) which made an order from the person table like the next sample below. 
+Если речь о том, что нужно представить результат запроса к таблице person как в данных ниже, то предлагаю
+Please write a SQL statement which returns the date of order from the person_order table and corresponding person data(name and age) formatted as in the data sample below.
+
+
+ex08
+Дофольно сложно искать инфу
+
+
+ex09
+грамматические ошибки
+Please write a 2 SQL statements which returns a list of pizzerias names which have not been visited by persons by using IN for 1st one and EXISTS for the 2nd one.
+Предлагаю
+Please write 2 SQL statements which return a list of pizzerias names which have not been visited by persons by using IN for 1st one and EXISTS for the 2nd one.

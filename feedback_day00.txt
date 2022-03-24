@@ -22,10 +22,14 @@ the 1st select statement should contain signs for comparison
 the 2nd select statement should contain BETWEEN keyword
 Should или must? Если should, то корректно будет и без BETWEEN сделать
 
+ex03
+непонятно из задания промежуток или две даты. during 6th of January 2022 and 9th of January 2022 однозначно обозначает две даты, а не промежуток, но в чек листе ожидается промежуток 
+
 
 ex05
 Please make a select statement which returns person names
 Кажется persons' names корректнее
+Предложение составлено не очень хорошо. "date of order should equal 7th of January 2022" как будто в этом предложении стоит написать orders, что бы было явно, что ВСЕ заказы должны быть сделаны в эту дату
 
 ex06
 with the check statement
@@ -39,3 +43,22 @@ ex08
 Please make a SQL statement which returns all columns from the person_order table but rows whose identifier is even number and add ordering by returned identifier.
 возможно стоит заменить but на except, что бы людям с более слабым английским было проще понять.
 кажется перед even number нужен артикль an, т.к. числа исчисляемы
+
+
+
+
+
+
+checklists
+ex03
+две колонки в задании вместо одной
+
+ex04
+присутствуют двойные ковыйки, которых нет в других заданиях с подобным выводом.
+
+ex07
+вывод некрасивый
+
+ex08
+вывод некрасивый
+В задании просят нечетные вывести, в чеклисте просят четные
