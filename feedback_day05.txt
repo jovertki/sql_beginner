@@ -1,0 +1,8 @@
+ex01
+Before что? предложение составлено некорректно
+Before please write a SQL statement that returns pizzas’ and corresponding pizzeria names. 
+
+
+ex06
+Должно быть looks like 
+Hint: this exercise looks a “brute force” task to find a good covering index therefore before your new test remove idx_1 index.
