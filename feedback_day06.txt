@@ -23,3 +23,10 @@ make improvements to
 proof of usage index
 правильно
 proof of index usage
+
+
+ex06
+неправильно
+each time by automatically
+правильно
+each time automatically
